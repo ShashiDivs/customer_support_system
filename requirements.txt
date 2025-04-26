@@ -3,3 +3,6 @@ pandas
 langchain
 langchain-community
 ipykernel
+langchain-astradb
+
+-e .
