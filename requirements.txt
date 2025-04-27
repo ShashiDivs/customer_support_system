@@ -4,5 +4,6 @@ langchain
 langchain-community
 ipykernel
 langchain-astradb
+langchain_google_genai
 numpy
 -e .
